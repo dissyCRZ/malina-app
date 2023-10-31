@@ -1,0 +1,1 @@
+const baseUrl = 'http://167.99.246.103:8080/api/v2/malina/';

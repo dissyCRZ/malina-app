@@ -1,0 +1,4 @@
+enum CartTypeEnum {
+  food,
+  beauty,
+}

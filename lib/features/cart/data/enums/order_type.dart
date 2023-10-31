@@ -1,0 +1,4 @@
+enum DeliveryTypeEnum {
+  outside,
+  delivery,
+}
